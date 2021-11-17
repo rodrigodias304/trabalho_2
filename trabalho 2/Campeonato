@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="noticia.css">
+	<link rel="stylesheet" type="text/css" href="noticia.css">
+	<title>Rodrigo News</title>
+	<head> 
+		<body background="https://wallpapercave.com/wp/wp2635081.png"> 
+			<br><br>
+
+				<a href="Valorant.html"> Ir para principais noticias de valorant </a>
+		<br><br>
+		<a href="index.html"> Ir para as principais noticias de Counter Strike </a>
+		<br><a href="lol.html"> Ir para principais noticias de League of legends </a>
+
+		<br><br>
+		<img src="major.jpg"></><br><br>
+			<h1 class="noticia">  Fim de mundial! </h1><br>
+
